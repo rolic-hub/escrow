@@ -8,5 +8,5 @@ Think of it as a digital safe deposit box where one user can lock up Token A, wa
 This creates a trustless environment where neither party needs to worry about the other backing out of the deal.
 
 - Make: The maker (first user) defines the trade terms and deposits the agreed amount of Token A into a secure vault. This is like putting your item in the safe deposit box and setting the terms of the exchange.
-Take: The taker (second user) accepts the offer by transferring the promised amount of Token B to the maker, and in return, receives the locked Token A. This is the moment when both parties complete their side of the deal.
-Refund: If the maker changes their mind or no suitable taker is found, they can cancel the offer and retrieve their Token A. This is like getting your item back from the safe deposit box if the deal falls through.
+- Take: The taker (second user) accepts the offer by transferring the promised amount of Token B to the maker, and in return, receives the locked Token A. This is the moment when both parties complete their side of the deal.
+- Refund: If the maker changes their mind or no suitable taker is found, they can cancel the offer and retrieve their Token A. This is like getting your item back from the safe deposit box if the deal falls through.
